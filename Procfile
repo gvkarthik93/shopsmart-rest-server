@@ -1,1 +1,1 @@
-web: python -m SimpleHTTPServer 8001
+web: python appserver.py
